@@ -1,1 +1,1 @@
-# LSTM_Text-Generation
+# LSTM_Text_Generation
